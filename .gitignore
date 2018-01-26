@@ -55,3 +55,6 @@ fabric.properties
 docs/
 _build/
 __pycache__/
+a_package.rst
+a_package.sub_package.rst
+modules.rst
